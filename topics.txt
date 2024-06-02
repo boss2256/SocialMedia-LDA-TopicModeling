@@ -1,0 +1,101 @@
+Optimal number of topics for combined dataset: 10
+Topic 0: 0.027*"pap" + 0.025*"party" + 0.023*"spore" + 0.021*"responsible" + 0.010*"obvious" + 0.009*"fantastic" + 0.009*"wow" + 0.008*"effective" + 0.008*"caring" + 0.008*"thanks"
+Topic 1: 0.011*"cpf" + 0.007*"time" + 0.007*"people" + 0.007*"like" + 0.007*"heartland" + 0.007*"shops" + 0.006*"money" + 0.005*"pap" + 0.005*"use" + 0.005*"future"
+Topic 2: 0.017*"sa" + 0.014*"cdc" + 0.013*"voucher" + 0.013*"oa" + 0.011*"cpf" + 0.010*"ra" + 0.010*"dont" + 0.009*"money" + 0.009*"just" + 0.007*"withdraw"
+Topic 3: 0.011*"rooms" + 0.009*"income" + 0.008*"u" + 0.008*"santa" + 0.008*"claus" + 0.008*"red" + 0.008*"handed" + 0.008*"caught" + 0.007*"pap" + 0.007*"room"
+Topic 4: 0.019*"singaporeans" + 0.014*"cpf" + 0.012*"need" + 0.010*"pap" + 0.008*"just" + 0.008*"year" + 0.007*"money" + 0.006*"wouldnt" + 0.006*"dont" + 0.006*"citizens"
+Topic 5: 0.013*"money" + 0.010*"singapore" + 0.010*"job" + 0.008*"singaporeans" + 0.008*"course" + 0.007*"retirement" + 0.007*"hope" + 0.007*"years" + 0.007*"make" + 0.007*"year"
+Topic 6: 0.015*"budget" + 0.011*"rich" + 0.007*"cpf" + 0.007*"kita" + 0.007*"ge" + 0.007*"life" + 0.007*"man" + 0.006*"like" + 0.006*"poor" + 0.006*"serving"
+Topic 7: 0.011*"im" + 0.010*"money" + 0.010*"didnt" + 0.007*"pap" + 0.007*"new" + 0.007*"better" + 0.007*"policies" + 0.006*"vouchers" + 0.006*"pay" + 0.006*"use"
+Topic 8: 0.027*"money" + 0.021*"cpf" + 0.016*"account" + 0.012*"shielding" + 0.012*"special" + 0.010*"sa" + 0.009*"cdc" + 0.008*"people" + 0.007*"convert" + 0.007*"retirement"
+Topic 9: 0.025*"pap" + 0.016*"gst" + 0.013*"party" + 0.013*"increase" + 0.012*"singapore" + 0.011*"people" + 0.010*"singaporeans" + 0.008*"pay" + 0.007*"job" + 0.007*"years"
+
+Label: Cash
+Topic 0: 0.024*"vouchers" + 0.016*"cdc" + 0.016*"singaporeans" + 0.013*"pap" + 0.011*"gst" + 0.010*"people" + 0.009*"need" + 0.008*"high" + 0.008*"help" + 0.007*"food"
+Topic 1: 0.015*"singaporeans" + 0.012*"u" + 0.010*"singapore" + 0.010*"cdc" + 0.009*"gst" + 0.009*"budget" + 0.009*"did" + 0.009*"voucher" + 0.008*"use" + 0.008*"coming"
+Topic 2: 0.011*"reserves" + 0.011*"need" + 0.011*"singaporeans" + 0.010*"budget" + 0.007*"money" + 0.007*"current" + 0.007*"past" + 0.007*"wouldnt" + 0.007*"pap" + 0.006*"good"
+Topic 3: 0.016*"pap" + 0.013*"spore" + 0.010*"party" + 0.009*"responsible" + 0.009*"budget" + 0.008*"wong" + 0.008*"d" + 0.008*"mr" + 0.008*"obvious" + 0.006*"annual"
+
+Label: CPF Medisave
+Topic 0: 0.014*"just" + 0.014*"medisave" + 0.014*"bd" + 0.014*"old" + 0.014*"people" + 0.014*"born" + 0.014*"years" + 0.014*"ceca" + 0.014*"balls" + 0.014*"carrying"
+Topic 1: 0.036*"pap" + 0.036*"party" + 0.036*"people" + 0.036*"mistakes" + 0.036*"theres" + 0.036*"nowadays" + 0.036*"easily" + 0.036*"fall" + 0.036*"jabs" + 0.036*"uturn"
+Topic 2: 0.014*"bd" + 0.014*"medisave" + 0.014*"just" + 0.014*"old" + 0.014*"people" + 0.014*"balls" + 0.014*"years" + 0.014*"born" + 0.014*"party" + 0.014*"carrying"
+Topic 3: 0.104*"born" + 0.104*"people" + 0.104*"medisave" + 0.010*"just" + 0.010*"bd" + 0.010*"old" + 0.010*"balls" + 0.010*"years" + 0.010*"pap" + 0.010*"carrying"
+Topic 4: 0.128*"just" + 0.013*"medisave" + 0.013*"bd" + 0.013*"people" + 0.013*"old" + 0.013*"born" + 0.013*"years" + 0.013*"balls" + 0.013*"carrying" + 0.013*"spore"
+Topic 5: 0.115*"years" + 0.115*"old" + 0.011*"bd" + 0.011*"medisave" + 0.011*"just" + 0.011*"people" + 0.011*"carrying" + 0.011*"born" + 0.011*"ceca" + 0.011*"balls"
+Topic 6: 0.014*"bd" + 0.014*"medisave" + 0.014*"just" + 0.014*"people" + 0.014*"old" + 0.014*"born" + 0.014*"years" + 0.014*"balls" + 0.014*"carrying" + 0.014*"pap"
+Topic 7: 0.069*"bonus" + 0.069*"medical" + 0.052*"cost" + 0.035*"sporeans" + 0.035*"fantastic" + 0.035*"spore" + 0.035*"responsible" + 0.035*"party" + 0.035*"pap" + 0.019*"medisave"
+Topic 8: 0.081*"electricity" + 0.081*"generate" + 0.081*"tracking" + 0.081*"future" + 0.081*"trains" + 0.081*"bullets" + 0.008*"bd" + 0.008*"medisave" + 0.008*"just" + 0.008*"old"
+
+Label: Income Tax Rebate
+Topic 0: 0.038*"dpm" + 0.038*"lower" + 0.038*"need" + 0.038*"say" + 0.038*"doesnt" + 0.038*"does" + 0.038*"raise" + 0.038*"cabinet" + 0.038*"approve" + 0.038*"mps"
+Topic 1: 0.027*"pap" + 0.027*"right" + 0.027*"proven" + 0.027*"combat" + 0.027*"singaporeans" + 0.027*"budget" + 0.027*"greatly" + 0.027*"help" + 0.027*"average" + 0.027*"higher"
+Topic 2: 0.080*"tax" + 0.043*"living" + 0.043*"cost" + 0.043*"property" + 0.043*"like" + 0.043*"killing" + 0.043*"poor" + 0.004*"areas" + 0.004*"gst" + 0.004*"rebates"
+Topic 3: 0.030*"pay" + 0.030*"tax" + 0.030*"year" + 0.030*"value" + 0.030*"property" + 0.030*"additional" + 0.030*"spore" + 0.030*"fantastic" + 0.030*"house" + 0.030*"increased"
+Topic 4: 0.097*"wp" + 0.049*"want" + 0.049*"huat" + 0.049*"pap" + 0.033*"parliament" + 0.033*"dont" + 0.033*"opposition" + 0.033*"vote" + 0.033*"years" + 0.033*"election"
+Topic 5: 0.038*"tax" + 0.038*"santa" + 0.038*"caught" + 0.038*"claus" + 0.038*"handed" + 0.038*"playing" + 0.038*"lot" + 0.038*"red" + 0.038*"increase" + 0.038*"year"
+Topic 6: 0.005*"wp" + 0.005*"want" + 0.005*"huat" + 0.005*"vote" + 0.005*"pap" + 0.005*"opposition" + 0.005*"election" + 0.005*"dont" + 0.005*"years" + 0.005*"parliament"
+Topic 7: 0.092*"cost" + 0.092*"living" + 0.033*"high" + 0.033*"singapore" + 0.033*"killing" + 0.033*"citizens" + 0.033*"pay" + 0.033*"pr" + 0.033*"contribute" + 0.033*"taxes"
+Topic 8: 0.061*"rich" + 0.033*"income" + 0.033*"feel" + 0.033*"cloud" + 0.033*"standby" + 0.033*"benefiting" + 0.033*"skyrocket" + 0.033*"just" + 0.033*"ge" + 0.033*"middle"
+Topic 9: 0.030*"rebates" + 0.030*"areas" + 0.015*"iswaran" + 0.015*"budgetnothing" + 0.015*"announcing" + 0.015*"hidden" + 0.015*"meeting" + 0.015*"case" + 0.015*"surprise" + 0.015*"economy"
+Topic 10: 0.053*"job" + 0.053*"singapore" + 0.040*"construction" + 0.040*"malay" + 0.027*"experienced" + 0.027*"india" + 0.027*"civil" + 0.014*"roof" + 0.014*"going" + 0.014*"people"
+
+Label: CPF RA -SA
+Topic 0: 0.024*"money" + 0.023*"sa" + 0.021*"cpf" + 0.012*"ra" + 0.010*"pap" + 0.010*"oa" + 0.008*"people" + 0.007*"life" + 0.007*"account" + 0.006*"withdraw"
+Topic 1: 0.020*"cpf" + 0.010*"pap" + 0.008*"sa" + 0.008*"shielding" + 0.008*"retirement" + 0.006*"seniors" + 0.006*"account" + 0.006*"im" + 0.006*"make" + 0.006*"oa"
+Topic 2: 0.010*"rich" + 0.009*"cpf" + 0.006*"account" + 0.006*"poor" + 0.006*"man" + 0.006*"people" + 0.005*"gov" + 0.005*"serving" + 0.005*"close" + 0.005*"world"
+
+Label: NS Credits
+Topic 0: 0.045*"wouldnt" + 0.023*"like" + 0.023*"singaporeans" + 0.023*"allow" + 0.023*"willing" + 0.012*"minimum" + 0.012*"pap" + 0.012*"manifesto" + 0.012*"wage" + 0.012*"universities"
+Topic 1: 0.031*"pap" + 0.021*"policies" + 0.021*"didnt" + 0.021*"new" + 0.021*"training" + 0.021*"family" + 0.011*"peanuts" + 0.011*"minimum" + 0.011*"alternative" + 0.011*"resources"
+Topic 2: 0.023*"credit" + 0.023*"boys" + 0.023*"dont" + 0.023*"ns" + 0.023*"forget" + 0.023*"old" + 0.012*"gov" + 0.012*"joke" + 0.012*"party" + 0.012*"nsf"
+Topic 3: 0.030*"men" + 0.020*"ge" + 0.020*"gov" + 0.020*"budget" + 0.020*"like" + 0.020*"little" + 0.020*"country" + 0.020*"serve" + 0.020*"army" + 0.011*"caring"
+Topic 4: 0.036*"country" + 0.025*"training" + 0.025*"pap" + 0.013*"singapore" + 0.013*"soldiers" + 0.013*"party" + 0.013*"saf" + 0.013*"theres" + 0.013*"multination" + 0.013*"use"
+Topic 5: 0.037*"increase" + 0.028*"gst" + 0.019*"problems" + 0.019*"everyday" + 0.019*"going" + 0.019*"price" + 0.019*"hardships" + 0.019*"longer" + 0.010*"forget" + 0.010*"best"
+Topic 6: 0.019*"credits" + 0.019*"converter" + 0.019*"shen" + 0.019*"shiong" + 0.019*"time" + 0.019*"machine" + 0.019*"queue" + 0.019*"zero" + 0.019*"add" + 0.019*"make"
+Topic 7: 0.034*"money" + 0.027*"singaporeans" + 0.021*"country" + 0.021*"years" + 0.021*"salary" + 0.021*"make" + 0.014*"dollars" + 0.014*"pay" + 0.014*"nsf" + 0.014*"expense"
+Topic 8: 0.045*"ns" + 0.016*"pap" + 0.016*"citizens" + 0.016*"money" + 0.016*"absolutely" + 0.016*"called" + 0.016*"unacceptable" + 0.016*"jobs" + 0.016*"issue" + 0.016*"killing"
+Topic 9: 0.052*"sab" + 0.035*"legs" + 0.018*"ns" + 0.018*"lah" + 0.018*"pls" + 0.018*"civil" + 0.018*"years" + 0.018*"defence" + 0.018*"shake" + 0.018*"forces"
+Topic 10: 0.023*"ge" + 0.023*"citizen" + 0.023*"sadly" + 0.023*"cos" + 0.023*"c" + 0.023*"pr" + 0.023*"wont" + 0.023*"nsfnsmen" + 0.023*"ang" + 0.023*"wonder"
+
+Label: CDC Vouchers
+Topic 0: 0.011*"buy" + 0.011*"singapore" + 0.011*"u" + 0.011*"jobs" + 0.009*"vouchers" + 0.009*"singaporeans" + 0.009*"old" + 0.009*"receive" + 0.009*"voucher" + 0.007*"cdc"
+Topic 1: 0.028*"increase" + 0.014*"pay" + 0.014*"cdc" + 0.012*"singaporeans" + 0.012*"gst" + 0.012*"food" + 0.012*"stalls" + 0.009*"time" + 0.009*"ha" + 0.009*"lets"
+Topic 2: 0.013*"singaporeans" + 0.012*"gst" + 0.011*"u" + 0.011*"high" + 0.011*"blame" + 0.008*"n" + 0.008*"instead" + 0.006*"singaporean" + 0.006*"gets" + 0.006*"voucher"
+Topic 3: 0.023*"pap" + 0.018*"singaporeans" + 0.016*"cdc" + 0.013*"vouchers" + 0.012*"budget" + 0.011*"use" + 0.009*"party" + 0.008*"heartland" + 0.008*"did" + 0.007*"voucher"
+Topic 4: 0.014*"gst" + 0.011*"cdc" + 0.011*"singaporeans" + 0.011*"election" + 0.007*"budget" + 0.007*"opposition" + 0.007*"voucher" + 0.007*"living" + 0.007*"cost" + 0.007*"lease"
+Topic 5: 0.029*"vouchers" + 0.022*"gst" + 0.012*"help" + 0.012*"increase" + 0.012*"increasing" + 0.009*"singaporeans" + 0.009*"living" + 0.009*"cost" + 0.009*"raise" + 0.009*"cdc"
+Topic 6: 0.021*"voucher" + 0.018*"pap" + 0.016*"cdc" + 0.013*"party" + 0.013*"people" + 0.011*"income" + 0.011*"wouldnt" + 0.008*"singaporeans" + 0.008*"need" + 0.008*"lives"
+
+Label: U-Save Rebates
+Topic 0: 0.005*"pap" + 0.005*"budget" + 0.005*"party" + 0.005*"room" + 0.005*"flats" + 0.005*"thank" + 0.005*"lobang" + 0.005*"gst" + 0.005*"coming" + 0.005*"increase"
+Topic 1: 0.068*"pap" + 0.068*"party" + 0.051*"people" + 0.035*"money" + 0.035*"self" + 0.035*"election" + 0.035*"majority" + 0.035*"said" + 0.018*"singaporeans" + 0.018*"little"
+Topic 2: 0.005*"lawrence" + 0.005*"meaning" + 0.005*"long" + 0.005*"children" + 0.005*"education" + 0.005*"flat" + 0.005*"young" + 0.005*"room" + 0.005*"estates" + 0.005*"look"
+Topic 3: 0.051*"food" + 0.051*"stalls" + 0.027*"pap" + 0.026*"increase" + 0.026*"n" + 0.026*"prices" + 0.026*"buy" + 0.026*"drink" + 0.026*"lets" + 0.026*"shops"
+Topic 4: 0.037*"pap" + 0.025*"new" + 0.025*"survive" + 0.025*"didnt" + 0.025*"policies" + 0.013*"gst" + 0.013*"getting" + 0.013*"create" + 0.013*"eh" + 0.013*"wp"
+Topic 5: 0.036*"hand" + 0.019*"responsible" + 0.019*"spore" + 0.019*"right" + 0.019*"excellent" + 0.019*"obvious" + 0.019*"caring" + 0.019*"package" + 0.019*"fantastic" + 0.019*"assurance"
+Topic 6: 0.061*"wouldnt" + 0.031*"lobang" + 0.031*"budget" + 0.031*"allow" + 0.031*"willing" + 0.031*"singaporeans" + 0.016*"away" + 0.016*"reserves" + 0.016*"singapore" + 0.016*"matter"
+Topic 7: 0.045*"room" + 0.045*"flats" + 0.030*"flat" + 0.030*"rooms" + 0.030*"rebates" + 0.030*"chicken" + 0.016*"covd" + 0.016*"left" + 0.016*"reasons" + 0.016*"staying"
+Topic 8: 0.070*"u" + 0.036*"voucher" + 0.036*"provide" + 0.036*"jobs" + 0.019*"tighten" + 0.019*"thk" + 0.019*"harder" + 0.019*"guess" + 0.019*"help" + 0.019*"ones"
+Topic 9: 0.056*"gomen" + 0.029*"pap" + 0.029*"coming" + 0.029*"happen" + 0.029*"ppl" + 0.029*"use" + 0.029*"representing" + 0.029*"usualword" + 0.029*"interview" + 0.029*"norm"
+
+Label: S&CC Rebates
+Topic 0: 0.030*"survive" + 0.030*"gst" + 0.018*"harder" + 0.018*"till" + 0.018*"high" + 0.018*"middle" + 0.018*"adult" + 0.018*"better" + 0.018*"aiyooo" + 0.018*"naohiaraise"
+Topic 1: 0.043*"u" + 0.024*"voucher" + 0.024*"provide" + 0.024*"singaporean" + 0.024*"jobs" + 0.024*"room" + 0.015*"harder" + 0.014*"help" + 0.014*"performing" + 0.014*"citizens"
+
+Label: Education/Training
+Topic 0: 0.015*"credits" + 0.011*"singapore" + 0.011*"talk" + 0.011*"singaporeans" + 0.011*"skillsfuture" + 0.008*"pap" + 0.008*"didnt" + 0.008*"good" + 0.008*"policies" + 0.008*"new"
+Topic 1: 0.018*"budget" + 0.009*"need" + 0.008*"future" + 0.006*"old" + 0.006*"g" + 0.006*"economic" + 0.006*"resources" + 0.006*"crisis" + 0.006*"respond" + 0.006*"growth"
+Topic 2: 0.012*"money" + 0.012*"budget" + 0.012*"job" + 0.010*"party" + 0.009*"courses" + 0.009*"singapore" + 0.009*"age" + 0.009*"going" + 0.008*"pap" + 0.007*"tsk"
+Topic 3: 0.026*"pap" + 0.020*"spore" + 0.020*"responsible" + 0.019*"party" + 0.009*"fantastic" + 0.009*"upgrade" + 0.009*"wow" + 0.009*"obvious" + 0.007*"credits" + 0.007*"skills"
+Topic 4: 0.013*"use" + 0.011*"governments" + 0.008*"family" + 0.008*"skillsfuture" + 0.008*"course" + 0.008*"budget" + 0.008*"people" + 0.008*"upgrade" + 0.008*"need" + 0.008*"credit"
+Topic 5: 0.016*"job" + 0.012*"train" + 0.012*"skills" + 0.009*"diploma" + 0.009*"money" + 0.009*"degree" + 0.009*"time" + 0.007*"singaporean" + 0.007*"low" + 0.007*"pap"
+
+Label: Retrenchment
+Topic 0: 0.017*"pap" + 0.017*"budget" + 0.013*"future" + 0.009*"credits" + 0.009*"skills" + 0.009*"courses" + 0.009*"train" + 0.009*"skillsfuture" + 0.009*"skill" + 0.009*"lim"
+Topic 1: 0.019*"budget" + 0.017*"job" + 0.014*"year" + 0.011*"better" + 0.011*"going" + 0.008*"old" + 0.008*"upgrade" + 0.008*"talk" + 0.008*"money" + 0.008*"olds"
+Topic 2: 0.013*"reserves" + 0.013*"need" + 0.013*"current" + 0.010*"long" + 0.010*"singapore" + 0.007*"employ" + 0.007*"old" + 0.007*"good" + 0.007*"look" + 0.007*"living"
+Topic 3: 0.018*"course" + 0.015*"money" + 0.011*"tsk" + 0.011*"wong" + 0.011*"skills" + 0.008*"think" + 0.008*"need" + 0.008*"people" + 0.008*"ask" + 0.008*"mr"
+Topic 4: 0.016*"courses" + 0.011*"budget" + 0.011*"governments" + 0.011*"years" + 0.011*"singaporeans" + 0.011*"ones" + 0.006*"singapore" + 0.006*"election" + 0.006*"dpm" + 0.006*"psp"
+Topic 5: 0.032*"job" + 0.016*"old" + 0.012*"diploma" + 0.012*"years" + 0.008*"singaporeans" + 0.008*"low" + 0.008*"package" + 0.008*"poa" + 0.008*"bms" + 0.008*"degree"
+Topic 6: 0.015*"party" + 0.011*"reserves" + 0.011*"future" + 0.011*"money" + 0.011*"pap" + 0.011*"gov" + 0.011*"packet" + 0.010*"red" + 0.006*"skills" + 0.006*"using"

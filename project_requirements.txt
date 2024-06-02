@@ -1,0 +1,1 @@
+The LDA topic modelling need to do for each label (I.e. 1. Cash, 2. CPF MediSave Account Top-Ups, 3. Personal Income Tax Rebate, 4. CPF Retirement or Special Account, 5. NS LifeSG credits, 6. CDC voucher, 7. U-Save rebates, 8. S&CC rebates, 9. Education/Training, 10. Retrenchment and 11. General) so total will have 12 Topic models as 11 labels and 1 overall
